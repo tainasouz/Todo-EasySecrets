@@ -6,4 +6,4 @@ No diretório do projeto executar (instalar dependências):
 
 Para iniciar a aplicação:
 
-##npm run dev
+## npm run dev
