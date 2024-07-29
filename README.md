@@ -1,9 +1,5 @@
 # To-Do Challenge - Recrutamento Easysecrets
 
-No diretório do projeto executar (instalar dependências):
+### `npm install` - para instalar dependências do projeto
 
-## npm install
-
-Para iniciar a aplicação:
-
-## npm run dev
+### `npm run dev` - para inciar aplicação
